@@ -1,2 +1,2 @@
 # ANN-basic
-basic ANN project
+basic ANN projects
