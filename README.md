@@ -1,2 +1,2 @@
-# ANN-basic
-basic ANN projects
+# DL
+Learning Deep Learning
